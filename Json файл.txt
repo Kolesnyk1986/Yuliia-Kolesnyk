@@ -1,0 +1,33 @@
+{
+  "clothes": [
+    {
+      "type": "man",
+      "brand": "nike",
+      "color": "black",
+      "style": "casual",
+      "size": "middle"
+    },
+    {
+      "type": "woman",
+      "color": "white",
+      "style": "classic",
+      "size": "small"
+    }
+  ],
+  "shoes": [
+    {
+      "type": "man",
+      "brand": "columbia",
+      "color": "red",
+      "style": "casual",
+      "size": 11
+    },
+    {
+      "type": "man",
+      "brand": "columbia",
+      "color": "red",
+      "style": "casual",
+      "size": 6
+    }
+  ]
+}
